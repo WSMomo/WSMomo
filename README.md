@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I'm Marco, a web developer on a journey to master the art of building amazing web experiences. 
 
 ## Skills 
-<div align="center">
+<div>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
@@ -33,7 +33,7 @@ I'm Marco, a web developer on a journey to master the art of building amazing we
 Let's connect and collaborate! Feel free to reach out to me:
 
 - [Email](mailto:momomarcoj@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/marco-momo-61b08a159/)
+- [Linkedin](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/marco-momo-61b08a159/)
 - [Website](https://wsmomo.github.io/Portfolio-Marco-Momo/)
 
 
