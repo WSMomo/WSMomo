@@ -33,7 +33,7 @@ I'm Marco, a web developer on a journey to master the art of building amazing we
 Let's connect and collaborate! Feel free to reach out to me:
 
 - [Email](mailto:momomarcoj@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/marco-momo-61b08a159/)
+- [Linkedin](https://www.linkedin.com/in/marco-momo-61b08a159/?original_referer=https%3A%2F%2Fwsmomo.github.io%2F)
 - [Website](https://wsmomo.github.io/Portfolio-Marco-Momo/)
 
 
