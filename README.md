@@ -38,6 +38,6 @@ Let's connect and collaborate! Feel free to reach out to me:
 
 [![WSMomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsmomo&theme=github_dark&hide=prs,issues,contribs&show_icons=true)](https://github.com/wsmomo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmomo)](https://github.com/anuraghazra/github-readme-stats&layout=donut)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmomo&layout=donut)](https://github.com/wsmomo/github-readme-stats)
 
 
