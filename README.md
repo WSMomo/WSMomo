@@ -36,7 +36,7 @@ Let's connect and collaborate! Feel free to reach out to me:
 - [Linkedin](https://www.linkedin.com/in/marco-momo-61b08a159/?original_referer=https%3A%2F%2Fwsmomo.github.io%2F)
 - [Website](https://wsmomo.github.io/Portfolio-Marco-Momo/)
 
-[![WSMomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsmomo&theme=github_dark)](https://github.com/wsmomo)
+[![WSMomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsmomo&theme=github_dark&hide=prs,issues,contribs)](https://github.com/wsmomo)
 
 
 
