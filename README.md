@@ -40,6 +40,6 @@ Let's connect and collaborate! Feel free to reach out to me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmomo&layout=donut&theme=github_dark)](https://github.com/wsmomo/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wsmomo)](https://github.com/wsmomo/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wsmomo&theme=github_dark)](https://github.com/wsmomo/github-readme-stats)
 
 
