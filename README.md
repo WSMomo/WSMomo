@@ -57,5 +57,4 @@ Let's connect and collaborate! Feel free to reach out to me:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=wsmomo&icon=5&color=12)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=wsmomo&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
