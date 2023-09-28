@@ -51,10 +51,11 @@ Let's connect and collaborate! Feel free to reach out to me:
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wsmomo&theme=github_dark)](https://wakatime.com/@wsmomo)
 
+<!--
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=wsmomo&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=wsmomo&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+-->
+<!-- [![](https://visitcount.itsvg.in/api?id=wsmomo&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in) -->
