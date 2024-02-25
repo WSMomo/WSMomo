@@ -11,15 +11,13 @@ I'm Marco, a web developer on a journey to master the art of building amazing we
 	<img height="50" src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux"/>
 	<img height="50" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
 	<img height="50" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind"/>
-	<img height="50" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
 	<img height="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/>
 </div>
 
 ## I'm currently learning...
 <div>
-	<img height="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
-	<img height="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/>
-	<img height="50" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>
+	<img height="50" src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2021/05/Salesforce-logo.jpg" alt="SFCC" title="SFCC"/>
+	<img height="50" src="https://skillicons.dev/icons?i=jquery" alt="JQuery" title="JQuery"/>
 	<img height="50" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
 </div>
 	
