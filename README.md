@@ -20,7 +20,7 @@ I'm Marco, a web developer on a journey to master the art of building amazing we
 	<img height="50" src="https://skillicons.dev/icons?i=jquery" alt="JQuery" title="JQuery"/>
 	<img height="50" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
 	<img height="50" src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart"/>
-	<img height="50" src="https://skillicons.dev/icons?i=nextjs" alt="flutter" title="Flutter"/>
+	<img height="50" src="https://skillicons.dev/icons?i=flutter" alt="flutter" title="Flutter"/>
 </div>
 	
 </div>
