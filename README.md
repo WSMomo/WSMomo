@@ -35,7 +35,7 @@ Let's connect and collaborate! Feel free to reach out to me:
 ![WSMomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsmomo&theme=github_dark&hide=issues,contribs&show_icons=true)
 
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wsmomo&theme=github_dark)](https://wakatime.com/@wsmomo)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wsmomo&theme=github_dark&langs_count=10)](https://wakatime.com/@wsmomo)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmomo&layout=donut&theme=github_dark) 
