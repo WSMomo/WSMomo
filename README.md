@@ -12,12 +12,12 @@ I'm Marco, a web developer on a journey to master the art of building amazing we
 	<img height="50" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
 	<img height="50" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind"/>
 	<img height="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/>
+	<img height="50" src="https://skillicons.dev/icons?i=jquery" alt="JQuery" title="JQuery"/>
 </div>
 
 ## I'm currently learning...
 <div>
 	<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/2560px-Salesforce.com_logo.svg.png" alt="SFCC" title="SFCC"/>
-	<img height="50" src="https://skillicons.dev/icons?i=jquery" alt="JQuery" title="JQuery"/>
 	<img height="50" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
 	<img height="50" src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart"/>
 	<img height="50" src="https://skillicons.dev/icons?i=flutter" alt="flutter" title="Flutter"/>
